@@ -1,9 +1,9 @@
 # Setting Up SSH for GitHub
 Generate an SSH Key: If you don't already have an SSH key, you can generate one using the following command. 
-Replace "your_email@example.com" with the email associated with your GitHub account.
+Replace "mne@yaposarl.ma" with the email associated with your GitHub account.
 
 ```shell
-ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "mne@yaposarl.ma"
 ```
 
 # Step 2: Start the SSH Agent
